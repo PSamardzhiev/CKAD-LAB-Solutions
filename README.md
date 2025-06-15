@@ -1,5 +1,6 @@
-# CKAD-LAB-Solutions
-This repo contains solutions for the Lightning Labs from the KodeKloud CKAD Course
+# KodeKloud - Certified Kubernetes Application Developer Course
+## Lightning Labs Solutions
+This repo contains solutions for the Lightning Labs from the KodeKloud CKAD Course.
 ### LAB 1 ###
 Lightning LAB1 consists of 5 questions.\
  Each question is written in separate file for more clarity.\
@@ -10,3 +11,17 @@ Lightning LAB1 consists of 5 questions.\
 
  solution1.md - contains the solution for the first question from the lab.
  ```
+### Repo Structure
+This repository follows the structure outlined below:
+```bash
+
+.
+├── LAB1
+│   ├── challengeX.md
+│   └── solutionX.md
+├── LAB2
+│   ├── challengeX.md
+│   └── solutionX.md
+├── LICENSE
+└── README.md
+```
