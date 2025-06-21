@@ -3,6 +3,10 @@ execute the following command:
 ```bash
 kubectl create namespace dvl1987
 ```
+To create the config map, execute the below command:
+```bash
+kubectl create configmap time-config --from-literal=TIME_FREQ=10
+```
 Then create YAML file with the follwing content: 
 ```yaml
 ---
