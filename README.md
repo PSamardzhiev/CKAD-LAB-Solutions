@@ -11,6 +11,7 @@ Lightning LAB1 consists of 5 questions.\
 
  solution1.md - contains the solution for the first question from the lab.
  ```
+ 
 ### LAB 2 ###
 Lightning LAB2 consists of 5 questions as well, the folder structure is exactly the same as LAB1.
 ### Repo Structure
